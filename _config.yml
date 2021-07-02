@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : # "S. S. Sajjadinia"
+  name             : "S. S. Sajjadinia"
   avatar           : "main.jpg"
-  bio              : # "I am a PhD student at Free University of Bozen-Bolzano, supevised by Prof. Bruno Carpentieri and Prof. Gerhard A. Holzapfel. My main research interests are applied machine learning, (bio)mechanics, and computational multiphysics. On this personal website, I briefly overview my main academic research and publications."
+  bio              : # "This website covers my main academic research in two fields: (bio)mechanics and machine learning.
   location         : 
   employer         :
   pubmed           : 
