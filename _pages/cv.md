@@ -63,7 +63,7 @@ Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), pre
 ### Soft skills:
 Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
 
-| Language  skills      | Fluency   |   [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"} level     |
+| Language  skills      | Fluency   |   Approximate [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"} level     |
 | --------         | ------ | ------ |
 |English    | Fluent   |  C1  |
 | Italian   | Basic   | A2  |
