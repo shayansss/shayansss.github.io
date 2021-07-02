@@ -51,16 +51,16 @@ redirect_from:
 
 ## Skills
 ----------
-### Major hard skills**:
+### Major hard skills:
 * **Numerical simulation**: finite element analysis, e.g., using Abaqus and its subroutines (e.g., UMAT for implementation of advanced custom models).
 * **Machine learning**: Graph neural networks, hybrid models, feature engineering, optimization.
 * **Scientific programming**: Fortran and Python (e.g., NumPy, Matplotlib, SciPy, Keras, Scikitlearn, TensorFlow).
 * **Physics-based modeling:**: biomechanical modeling (e.g., fibril-reinforced constitutive modeling), continuum mechanics, elasticity, multiscale analysis of biomaterials, and biological multiphysics.
 
-### **Minor hard skills**:
+### Minor hard skills:
 Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), presentation and graphical tools (LaTex, MS Office, and some of the Adobe and web development apps), and other modeling tools (FEBio, SolidWorks, 3ds Max, and Mimics).
 
-### **Soft skills**:
+### Soft skills:
 Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
 
 ## Research interests
@@ -80,9 +80,11 @@ Problem-solving, critical thinking, collaboration, communication, independence, 
 ### Open-access publishing fund
 * By Free University of Bozen-Bolzano
 * Awarded to high-quality papers.
+
 ### Full PhD scholarship
 * By Free University of Bozen-Bolzano
 * Awarded based on an exam result.
+
 ### Master’s tuition fee waiver
 * By Ministry of Science, Research, and Technology of Iran
 * Awarded based on an exam result.
