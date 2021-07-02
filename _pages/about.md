@@ -12,16 +12,13 @@ On this personal website, I briefly overview my main academic research and publi
 
 
 ## This Website is under development
-------
 
 ## My research
-------
 
 
 ### PhD dissertation
 
 ### MSc thesis
 
-## Updates
--------
+<h1 style="text-align:center">Last updates </h1>
 <div style="width: 50%; height:auto;align-items: center;"> <a class="twitter-timeline" href="https://twitter.com/sssajjadinia?ref_src=twsrc%5Etfw">Tweets by sssajjadinia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
