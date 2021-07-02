@@ -48,6 +48,12 @@ redirect_from:
   * **Physics-based modeling:**: biomechanical modeling (e.g., fibril-reinforced constitutive modeling), continuum mechanics, elasticity, multiscale analysis of biomaterials, and biological multiphysics.
 * **Minor hard skills**: Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), presentation and graphical tools (LaTex, MS Office, and some of the Adobe and web development apps), and other modeling tools (FEBio, SolidWorks, 3ds Max, and Mimics).
 * **Soft skills**: Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
+
+## Research interests
+----------
+* Machine learning (with applications in physics, medicine, and imaging)
+* Orthopedic and cardiovascular bioengineeging (especially using biomechanics)
+* Advanced finite element programming (for mechanical, medical, and multiphysics computational simulations)
   
 ## Languages
 ----------
@@ -66,7 +72,7 @@ redirect_from:
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 ## Honours and awards
 ----------
 * Open-access publishing fund
