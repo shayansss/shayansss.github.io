@@ -77,23 +77,13 @@ Problem-solving, critical thinking, collaboration, communication, independence, 
 
 ### Language skills
 
-| Language         | Competency   |   [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"}) level     |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | Fluent   | Description of the item in the list                          |
-| [Jane Doe](#)    | Basic   | C1                          |
-| [Doe Doe](#)     | Mother tonge   | C2                          |
+| Language         | Competency   |   [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"} level     |
+| --------         | ------ | ------ |
+|English    | Fluent   | C1 |
+| Italian   | Basic   | A2  |
+| [Doe Doe](#)     | Mother tonge   | C2  |
 
-### language skills
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|-----------------------------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=============================|
-| Foot1   | Foot2   | Foot3   |
 
 
 ## Honours and awards
