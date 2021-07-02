@@ -8,17 +8,16 @@ redirect_from:
   - /about.html
 ---
 I am a [PhD student](https://www.unibz.it/en/faculties/computer-science/phd-computer-science/phd-students/phd/42428-seyed-shayan-sajjadinia){:target="_blank"} at Free University of Bozen-Bolzano, supevised by [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"} and [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}. My main research interests are applied machine learning, (bio)mechanics, and computational multiphysics.
+
 On this personal website, I briefly overview my main academic research and publications.
 
 
-## This Website is under development
+# This Website is under development
 
 ## My research
-
 
 ### PhD dissertation
 
 ### MSc thesis
 
-<h1 style="text-align:center">Last updates </h1>
-<div style="width: 50%; height:auto;align-items: center;"> <a class="twitter-timeline" href="https://twitter.com/sssajjadinia?ref_src=twsrc%5Etfw">Tweets by sssajjadinia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+## Last updates
