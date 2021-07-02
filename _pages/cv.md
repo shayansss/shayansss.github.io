@@ -11,13 +11,15 @@ redirect_from:
 
 ## Education
 ----------
-#### PhD Student in Computer Science, Free University of Bozen-Bolzano (Unibz), 2023 (expected)
+### PhD Student in Computer Science, Free University of Bozen-Bolzano (Unibz), 2023 (expected)
 * Field of research: Machine Learning in Computational Science and Biomechanics
 * PhD dissertation: advanced and efficient numerical analysis of articular Cartilage by multiphysics and machine learning (in progress)
-#### MSc in Biomedical Engineering, Iran University of Science and Technology (IUST), 2018
+* 
+### MSc in Biomedical Engineering, Iran University of Science and Technology (IUST), 2018
 * Subfield: Biomechanics
 * MSc Thesis: computational and biomechanical investigation into the degeneration of articular cartilage main constituents in osteoarthritis
-#### BSc in Mechanical Engineering, Islamic Azad University (IAU), 2015
+* 
+### BSc in Mechanical Engineering, Islamic Azad University (IAU), 2015
 * Subfield: Mechanics in Solid Design
 * BSc main project: computer modeling of a gearbox by Solidworks
 
