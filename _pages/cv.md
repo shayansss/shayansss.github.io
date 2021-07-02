@@ -63,25 +63,21 @@ Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), pre
 ### Soft skills:
 Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
 
+<h3 align='center'> Language skills<h3 />
+
+| Language        | Competency   |   ([CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"}) level     |
+| --------         | ------ | ------ |
+|English    | Fluent   | C1 |
+| Italian   | Basic   | A2  |
+| Persian     | Mother tonge   | C2  |
+
+
 ## Research interests
 ----------
 * Machine learning (with applications in physics, medicine, and imaging)
 * Orthopedic and cardiovascular bioengineeging (especially using biomechanics)
 * Advanced finite element programming (for mechanical, medical, and multiphysics computational simulations)
-  
-## Languages
-----------
-* English: Fluent (C1)
-* Italian: Basic (A2)
-* Persian: Mother tonge (C2)
 
-### Language skills
-
-| Language         | Competency   |   [CEFR](https://www.cambridgeenglish.org/exams-and-tests/cefr/){:target="_blank"} level     |
-| --------         | ------ | ------ |
-|English    | Fluent   | C1 |
-| Italian   | Basic   | A2  |
-| [Doe Doe](#)     | Mother tonge   | C2  |
 
 
 
