@@ -11,23 +11,23 @@ redirect_from:
 
 ## Education
 ----------
-### PhD Student in Computer Science, Free University of Bozen-Bolzano (Unibz), 2023 (expected)
+### PhD Student in Computer Science, Free University of Bozen-Bolzano, 2023 (expected)
 * Field of research: Machine Learning in Computational Science and Biomechanics
 * PhD dissertation: advanced and efficient numerical analysis of articular Cartilage by multiphysics and machine learning (in progress)
 
-### MSc in Biomedical Engineering, Iran University of Science and Technology (IUST), 2018
+### MSc in Biomedical Engineering, Iran University of Science and Technology, 2018
 * Subfield: Biomechanics
 * MSc Thesis: computational and biomechanical investigation into the degeneration of articular cartilage main constituents in osteoarthritis
 
-### BSc in Mechanical Engineering, Islamic Azad University (IAU), 2015
+### BSc in Mechanical Engineering, Islamic Azad University, 2015
 * Subfield: Mechanics in Solid Design
 * BSc main project: computer modeling of a gearbox by Solidworks
 
 ## Professional experience
 ----------
-### 11/2019 – Current: Graduate Researcher
-* Faculty of Computer Science, Unibz, Bolzano (), Italy
-* Working on the PhD thesis in return to the scolarship.
+### 11/2019 – Current: Graduate Researcher (Full-time)
+* Faculty of Computer Science, Free University of Bozen-Bolzano, Bolzano, Italy
+* Working on the PhD thesis in return for the scolarship.
 
 ### 11/2016 – 07/2017: Biomedical engineer (Internship)
 * Cancer Institute, Imam Khomeini Hospital Complex, Tehran, Iran
@@ -37,7 +37,7 @@ redirect_from:
 * Cancer Institute, Imam Khomeini Hospital Complex, Tehran, Iran
 * Physics-based (i.e., biomechanical) modeling of the cancerous tissues by Fortran user material subroutines.
 
-### 03/2011 – 10/2011: Amusement Ride Supervisor
+### 03/2011 – 10/2011: Amusement Ride Supervisor (Part-time)
 * Donyaye Bazi (Amusement Park), Tehran, Iran
 * Supervision and technical inspection of a roller coaster, cinema simulator, and bumper cars in an indoor amusement park.
 
