@@ -25,7 +25,7 @@ The list is updated on 10.06.2021, but the journal rankings are extracted on the
 
 [//]: # (Full-length conference proceeding)
 
-Further information about these publications and the other types of publications, e.g., my thesis, is available on www.researchgate.net/profile/Seyed-Shayan-Sajjadinia/research
+Further information about these publications and the other types of publications, e.g., my thesis, is available on [researchgate.net/profile/Seyed-Shayan-Sajjadinia/research](https://www.researchgate.net/profile/Seyed-Shayan-Sajjadinia/research){:target="_blank"}
 
 {% include base_path %}
 
