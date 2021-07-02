@@ -90,5 +90,5 @@ Problem-solving, critical thinking, collaboration, communication, independence, 
 * Awarded based on an exam result.
   
 ## Membership
-======
+---------
 * A student member of Association for Computing Machinery (ACM).
