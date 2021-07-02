@@ -21,7 +21,7 @@ redirect_from:
   * Field of research: Machine Learning in Computational Science and Biomechanics
   * PhD dissertation: advanced and efficient numerical analysis of articular Cartilage by multiphysics and machine learning (in progress)
 
-## Work experience
+## Professional experience
 ----------
 * 11/2019 – Current: Graduate Researcher
   * Faculty of Computer Science, Unibz, Bolzano (), Italy
@@ -38,6 +38,14 @@ redirect_from:
 * 03/2011 – 10/2011: Amusement Ride Supervisor
   * Donyaye Bazi (Amusement Park), Tehran, Iran
   * Supervision and technical inspection of a roller coaster, cinema simulator, and bumper cars in an indoor amusement park.
+
+## Publications
+----------
+  Including three journal publications (see the [list of publications](https://shayansss.github.io/publications/){:target="_blank"})
+  
+## International presentation
+----------
+  Including one upcoming conference presentation (see the [list of presentation](https://shayansss.github.io/presentations/){:target="_blank"})
 
 ## Skills
 ----------
@@ -60,18 +68,6 @@ redirect_from:
 * English: Fluent (C1)
 * Italian: Basic (A2)
 * Persian: Mother tonge (C2)
-
-## Publications
-----------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-## International conference presentation
-----------
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
 
 ## Honours and awards
 ----------
