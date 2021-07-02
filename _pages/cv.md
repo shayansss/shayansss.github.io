@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+----------
 * BSc in Mechanical Engineering, Islamic Azad University (IAU), 2015
   * Subfield: Mechanics in Solid Design
   * BSc main project: computer modeling of a gearbox by Solidworks
@@ -22,7 +22,7 @@ redirect_from:
   * PhD dissertation: advanced and efficient numerical analysis of articular Cartilage by multiphysics and machine learning (in progress)
 
 ## Work experience
-======
+----------
 * 11/2019 – Current: Graduate Researcher
   * Faculty of Computer Science, Unibz, Bolzano (), Italy
   * Working on the PhD thesis in return to the scolarship.
@@ -40,7 +40,7 @@ redirect_from:
   * Supervision and technical inspection of a roller coaster, cinema simulator, and bumper cars in an indoor amusement park.
 
 ## Skills
-======
+----------
 * **Major hard skills**:
   * **Numerical simulation**: finite element analysis, e.g., using Abaqus and its subroutines (e.g., UMAT for implementation of advanced custom models).
   * **Machine learning**: Graph neural networks, hybrid models, feature engineering, optimization.
@@ -50,25 +50,25 @@ redirect_from:
 * **Soft skills**: Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
   
 ## Languages
-======
+----------
 * English: Fluent (C1)
 * Italian: Basic (A2)
 * Persian: Mother tonge (C2)
 
 ## Publications
-======
+----------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## International conference presentation
-======
+----------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 ## Honours and awards
-======
+----------
 * Open-access publishing fund
   * By Free University of Bozen-Bolzano
   * Awarded to high-quality papers.
