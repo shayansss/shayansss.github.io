@@ -94,13 +94,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "shayan.sajjadinia"
+  facebook         : # "shayan.sajjadinia"
   foursquare       :
   github           : "shayansss"
   google_plus      :
   keybase          :
-  instagram        : "shayan_sajjadinia"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : # "shayan_sajjadinia"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shayansajjadi"
   orcid            : "https://orcid.org/0000-0002-0789-6394"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "sssajjadinia"
+  twitter          : # "sssajjadinia"
   vine             :
   weibo            :
   xing             :
@@ -179,13 +179,13 @@ collections:
     output: False
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: False
     permalink: /:collection/:path/
   portfolio:
     output: False
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: False
     permalink: /:collection/:path/
 
 
