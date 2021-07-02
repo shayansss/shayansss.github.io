@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * BSc in Mechanical Engineering, Islamic Azad University (IAU), 2015
   * Subfield: Mechanics in Solid Design
@@ -21,7 +21,7 @@ Education
   * Field of research: Machine Learning in Computational Science and Biomechanics
   * PhD dissertation: advanced and efficient numerical analysis of articular Cartilage by multiphysics and machine learning (in progress)
 
-Work experience
+## Work experience
 ======
 * 11/2019 – Current: Graduate Researcher
   * Faculty of Computer Science, Unibz, Bolzano (), Italy
@@ -39,8 +39,7 @@ Work experience
   * Donyaye Bazi (Amusement Park), Tehran, Iran
   * Supervision and technical inspection of a roller coaster, cinema simulator, and bumper cars in an indoor amusement park.
 
-  
-Skills
+## Skills
 ======
 * **Major hard skills**:
   * **Numerical simulation**: finite element analysis, e.g., using Abaqus and its subroutines (e.g., UMAT for implementation of advanced custom models).
@@ -50,25 +49,25 @@ Skills
 * **Minor hard skills**: Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), presentation and graphical tools (LaTex, MS Office, and some of the Adobe and web development apps), and other modeling tools (FEBio, SolidWorks, 3ds Max, and Mimics).
 * **Soft skills**: Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
   
-Languages
+## Languages
 ======
 * English: Fluent (C1)
 * Italian: Basic (A2)
 * Persian: Mother tonge (C2)
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-International conference presentation
+## International conference presentation
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Honours and awards
+## Honours and awards
 ======
 * Open-access publishing fund
   * By Free University of Bozen-Bolzano
@@ -80,6 +79,6 @@ Honours and awards
   * By Ministry of Science, Research, and Technology of Iran
   * Awarded based on an exam result.
   
-Membership
+## Membership
 ======
 * A student member of Association for Computing Machinery (ACM).
