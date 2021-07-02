@@ -43,11 +43,11 @@ redirect_from:
 
 ## Publications
 ----------
-  Including three journal publications (see the [list of publications](https://shayansss.github.io/publications/){:target="_blank"})
+  Including 3 journal publications (see the [list of publications](https://shayansss.github.io/publications/){:target="_blank"})
   
 ## International presentation
 ----------
-  Including one upcoming conference presentation (see the [list of presentation](https://shayansss.github.io/presentations/){:target="_blank"})
+  Including 1 upcoming conference presentation (see the [list of presentation](https://shayansss.github.io/presentations/){:target="_blank"})
 
 ## Skills
 ----------
@@ -58,10 +58,10 @@ redirect_from:
 * **Physics-based modeling:**: biomechanical modeling (e.g., fibril-reinforced constitutive modeling), continuum mechanics, elasticity, multiscale analysis of biomaterials, and biological multiphysics.
 
 ### Minor hard skills:
-Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), presentation and graphical tools (LaTex, MS Office, and some of the Adobe and web development apps), and other modeling tools (FEBio, SolidWorks, 3ds Max, and Mimics).
+  Biomechanical tests, other coding skills (GIT, Matlab, R, C/C++, and Scala), presentation and graphical tools (LaTex, MS Office, and some of the Adobe and web development apps), and other modeling tools (FEBio, SolidWorks, 3ds Max, and Mimics).
 
 ### Soft skills:
-Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
+  Problem-solving, critical thinking, collaboration, communication, independence, hard-working attitude, adaptability, time management, research skills (i.e., presentation, publication, networking, etc.)
 
 ## Research interests
 ----------
