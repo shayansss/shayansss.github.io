@@ -11,7 +11,7 @@ redirect_from:
 
 ### 11/2019 – Current: Graduate Researcher (Full-time)
 * Faculty of Computer Science, Free University of Bozen-Bolzano, Bolzano, Italy
-* Working on the PhD thesis in return for the scolarship.
+* Working on a PhD disseration in return for a full scolarship.
 
 ### 11/2016 – 07/2017: Biomedical Engineer (Internship)
 * Cancer Institute, Imam Khomeini Hospital Complex, Tehran, Iran
