@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "My personal website"
-excerpt: "My personal website"
+title: "My Personal Website"
+excerpt: "My Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ I am [PhD student](https://www.unibz.it/en/faculties/computer-science/phd-comput
 Applied computer science, especially using numerical analysis and artificial intelligence, have wide applications in engineering and medicine, e.g., [computer simulation](https://en.wikipedia.org/wiki/Computer_simulation){:target="_blank"}, [computational biomechanics](https://en.wikipedia.org/wiki/Biomechanics#Computational_biomechanics){:target="_blank"}, [medical imaging](https://en.wikipedia.org/wiki/Medical_image_computing){:target="_blank"}. 
 In particular, I am interested in [finite element methods](https://en.wikipedia.org/wiki/Finite_element_method){:target="_blank"} for physics-based and numerical modeling (typically by [continuum mechanics](https://en.wikipedia.org/wiki/Continuum_mechanics){:target="_blank"} and [multiphysics](https://en.wikipedia.org/wiki/Multiphysics){:target="_blank"}). I also prefer [machine learning methods](https://en.wikipedia.org/wiki/Machine_learning){:target="_blank"} for data-driven or intelligent modeling. I believe, although these two techniques are great per se, but combination of them can be revolutionary, as they can address each other's limitaions.
 
-## My Research
+## My research
 In the following, a brief overview of my main academic research is presented.
 
 ### PhD dissertation (coming soon)
