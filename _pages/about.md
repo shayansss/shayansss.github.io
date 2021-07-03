@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: "My personal weebsite"
 excerpt: "My personal weebsite"
 author_profile: true
 redirect_from: 
