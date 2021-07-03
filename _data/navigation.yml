@@ -1,10 +1,13 @@
 # main links links
-main:
-  - title: "Publications"
-    url: /publications/
+main:    
+  - title: "Professional Experience"
+    url: /experience/
+
+  - title: "Academic Research"
+    url: /research/
 
   - title: "Presentations"
     url: /presentations/
-    
-  - title: "Professional Experience"
-    url: /experience/
+
+  - title: "Publications"
+    url: /publications/

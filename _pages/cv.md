@@ -13,13 +13,13 @@ redirect_from:
 * Faculty of Computer Science, Free University of Bozen-Bolzano, Bolzano, Italy
 * Working on the PhD thesis in return for the scolarship.
 
-### 11/2016 – 07/2017: Biomedical engineer (Internship)
+### 11/2016 – 07/2017: Biomedical Engineer (Internship)
 * Cancer Institute, Imam Khomeini Hospital Complex, Tehran, Iran
 * Physics-based (i.e., biomechanical) modeling of the cancerous tissues by Fortran user material subroutines.
 
 ### 11/2014 – 05/2015: Mechanical Engineer (Internship)
 * Cancer Institute, Imam Khomeini Hospital Complex, Tehran, Iran
-* Physics-based (i.e., biomechanical) modeling of the cancerous tissues by Fortran user material subroutines.
+* Numerical simulation of the building structures by the stress analysis in Abaqus to find the optimum geometry and material properties.
 
 ### 03/2011 – 10/2011: Amusement Ride Supervisor (Part-time)
 * Donyaye Bazi (Amusement Park), Tehran, Iran
