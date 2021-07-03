@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: 
-excerpt: "About me"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-#
+## About me
 I am [PhD student](https://www.unibz.it/en/faculties/computer-science/phd-computer-science/phd-students/phd/42428-seyed-shayan-sajjadinia){:target="_blank"} at Free University of Bozen-Bolzano, supevised by [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"} and [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}. I am also a mechanical and biomedical engineer, allowing me to carry out research on applications of computer science on these fields. 
 
 Applied computer science, especially using numerical analysis and artificial intelligence, have wide applications in engineering and medicine. Some examples covered by Wikipedia include 
@@ -23,7 +23,7 @@ In the following, a brief overview of my main academic research is presented.
 ### MSc thesis (coming soon)
 
 
-# Last updates
+## Last updates
 - I am going to present a poster at University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15.
 - The list of publication and CV have now been published.
 - My website is launched but still requires further improvement. I will update the other sections of this website as soon as possible.
