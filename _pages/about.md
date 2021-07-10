@@ -23,3 +23,5 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 - I am going to present a poster at the Free University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15.
 - The list of publication and professional experience have now been published.
 - My website is launched but still requires further improvement. I will update the other sections of this website as soon as possible.
+
+google-site-verification: googlec0a74039a6d51f7c.html
