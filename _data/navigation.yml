@@ -1,9 +1,9 @@
-# main links links
+# main links
 main:    
-  - title: "Professional Experience"
+  - title: "Experience"
     url: /experience/
 
-  - title: "Academic Research"
+  - title: "Research"
     url: /research/
 
   - title: "Presentations"
