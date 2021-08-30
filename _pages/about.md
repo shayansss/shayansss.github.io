@@ -20,7 +20,7 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 
 ## Last updates
-- I am going to have a podium presentation at 17th international symposium on computer methods in biomechanics and biomedical engineering ([CMBBE 2021](https://www.cmbbe-symposium.com/2021/){:target="_blank"}) on 8 September, 14:15-16:00 CET as part of a [special session](https://program.m-anage.com/cmbbe2021/en-US/ProgramSearch/Program/?searchstring=&programid=98728&pProgramGrade=All&pHideLogin=False&pHidePersonal=False&pShowPrivate=False){:target="_blank"}.
+- I am going to have a podium presentation at [CMBBE 2021](https://www.cmbbe-symposium.com/2021/){:target="_blank"}) on 8 September, 14:15-16:00 CET as part of a [special session](https://program.m-anage.com/cmbbe2021/en-US/ProgramSearch/Program/?searchstring=&programid=98728&pProgramGrade=All&pHideLogin=False&pHidePersonal=False&pShowPrivate=False){:target="_blank"}.
 - I am going to present a poster at the Free University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15 CET.
 - The list of publication and professional experience have now been published.
 - My website is launched but still requires further improvement. I will update the other sections of this website as soon as possible.
