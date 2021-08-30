@@ -16,10 +16,11 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 *[finite element methods]: These are a group of numerical methods to solve partial differntial equations, and they are highly used for computer simulation of (bio)mechanical processes.
 *[multiphysics]: Multiphysics modeling focuses on coupling between different physical systems of equations, e.g., mechanochemical analysis, mixture theory, etc.
 *[continuum mechanics]: It is an extremely widely-used method for physics-based modeling that uses applied mechanics, e.g., non-linear elasticity and fluid dynamics, to analytically model the mechanical (and similar) systems, with an assumption that the modeled systems are formed by continuous media. This assumption holds valid for most of the engineering calculations, and even it may still be applicable on discrete media if it can roughly be viewed as continous at some scales.
-*[machine learning]: it is a subfield of artificial intelligence that automatically uses data and experience to implement a computational task. It is also widely used for data analysis and data-driven modeling, especially using deep neural networks.
+*[machine learning]: It is a subfield of artificial intelligence that automatically uses data and experience to implement a computational task. It is also widely used for data analysis and data-driven modeling, especially using deep neural networks.
 
 
 ## Last updates
-- I am going to present a poster at the Free University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15.
+- I am going to have a podium presentation at 17th international symposium on computer methods in biomechanics and biomedical engineering ([CMBBE 2021](https://www.cmbbe-symposium.com/2021/){:target="_blank"}) on 8 September, 14:15-16:00 CET as part of a [special session](https://program.m-anage.com/cmbbe2021/en-US/ProgramSearch/Program/?searchstring=&programid=98728&pProgramGrade=All&pHideLogin=False&pHidePersonal=False&pShowPrivate=False){:target="_blank"}.
+- I am going to present a poster at the Free University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15 CET.
 - The list of publication and professional experience have now been published.
 - My website is launched but still requires further improvement. I will update the other sections of this website as soon as possible.
