@@ -17,7 +17,7 @@ The list is updated on 10.06.2021, but the journal rankings are extracted on the
 
 ## Short peer-reviewed journal paper
 -------------
-- (Q2 short paper) **Sajjadinia, S. S.** and Haghpanahi, M. (2021) ‘A parametric study on the mechanical role of fibrillar rotations in an articular cartilage finite element model’, *Scientia Iranica*, 28(2), pp. 830–836.
+- **Sajjadinia, S. S.** and Haghpanahi, M. (2021) ‘A parametric study on the mechanical role of fibrillar rotations in an articular cartilage finite element model’, *Scientia Iranica*, 28(2), pp. 830–836.
 <br/>[DOI](http://doi.org/10.24200/sci.2020.51785.2362){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_03.pdf){:target="_blank"}
 
 
