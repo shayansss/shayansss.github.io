@@ -7,7 +7,7 @@ author_profile: true
 
 The list is updated on 10.06.2021, but the journal rankings are extracted on the publication dates.
 
-## Full peer-reviewed journal paper
+## Full peer-reviewed journal papers
 --------------
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) ‘A backward pre-stressing algorithm for efficient finite element implementation of in vivo material and geometrical parameters into fibril-reinforced mixture models of articular cartilage’, *Journal of the Mechanical Behavior of Biomedical Materials*, 114, p. 104203.
 <br/>[DOI](http://doi.org/10.1016/J.JMBBM.2020.104203){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}
@@ -18,13 +18,11 @@ The list is updated on 10.06.2021, but the journal rankings are extracted on the
 ## Short peer-reviewed journal paper
 -------------
 - **Sajjadinia, S. S.** and Haghpanahi, M. (2021) ‘A parametric study on the mechanical role of fibrillar rotations in an articular cartilage finite element model’, *Scientia Iranica*, 28(2), pp. 830–836.
-<br/>[DOI](http://doi.org/10.24200/sci.2020.51785.2362){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_03.pdf){:target="_blank"}
+<br/>[DOI](http://doi.org/10.24200/sci.2020.51785.2362){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
 
 
 
 [//]: # (Full peer-reviewed conference proceeding paper)
-
-Further information about these publications and the other types of publications, e.g., my thesis, is available on [researchgate.net/profile/Seyed-Shayan-Sajjadinia/research](https://www.researchgate.net/profile/Seyed-Shayan-Sajjadinia/research){:target="_blank"}
 
 {% include base_path %}
 
