@@ -17,7 +17,7 @@ This list is updated on 11.10.2021.
 
 ## Full peer-reviewed conference proceedings paper
 
-- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) ‘A pointwise evaluation metric to visualize errors in machine learning surrogatemodels’, *Machine Learning and Artificial Intelligence - Proceedings of MLIS 2021, Frontiers in Artificial Intelligence and Applications.*.
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) ‘A pointwise evaluation metric to visualize errors in machine learning surrogatemodels’, *Machine Learning and Artificial Intelligence - Proceedings of MLIS 2021, Frontiers in Artificial Intelligence and Applications*.
 <br/>(in press)
 
 ## Short peer-reviewed paper
