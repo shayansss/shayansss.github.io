@@ -15,14 +15,16 @@ The list is updated on 10.06.2021, but the journal rankings are extracted on the
 - **Sajjadinia, S. S.**, Haghpanahi, M. and Razi, M. (2019) ‘Computational simulation of the multiphasic degeneration of the bone-cartilage unit during osteoarthritis via indentation and unconfined compression tests’, *Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine*, 233(9), pp. 871–882.
 <br/>[DOI](http://doi.org/10.1177/0954411919854011){:target="_blank"} | [PDF](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}
 
-## Short peer-reviewed journal paper
+## Full peer-reviewed conference proceedings paper
+
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) ‘A pointwise evaluation metric to visualize errors in machine learning surrogatemodels’, *Machine Learning and Artificial Intelligence - Proceedings of MLIS 2021, Frontiers in Artificial Intelligence and Applications.*.
+<br/>(in press)
+
+## Short peer-reviewed paper
 -------------
 - **Sajjadinia, S. S.** and Haghpanahi, M. (2021) ‘A parametric study on the mechanical role of fibrillar rotations in an articular cartilage finite element model’, *Scientia Iranica*, 28(2), pp. 830–836.
 <br/>[DOI](http://doi.org/10.24200/sci.2020.51785.2362){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
 
-
-
-[//]: # (Full peer-reviewed conference proceeding paper)
 
 {% include base_path %}
 
