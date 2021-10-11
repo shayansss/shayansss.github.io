@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The list is updated on 10.06.2021, but the journal rankings are extracted on the publication dates.
+This list is updated on 11.10.2021.
 
 ## Full peer-reviewed journal papers
 --------------
