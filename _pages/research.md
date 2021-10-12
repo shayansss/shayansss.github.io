@@ -39,7 +39,11 @@ author_profile: true
 
 ## Other (minor) projects
 -------
-  * **BSc project**
+  * **MSc seminar**: Important Biomechanical Parameters of Knee Cartilage
+  * **BSc final project**: Modeling of a gearbox by Solidworks
+  * **Internship reports**:
+      * Analysis of the Loads in Complex Structures
+      * Investigation of Continuous Mathematical Models and Relavant Considerations
   * **BioFluid Mechanics**
   * **Composites**
   * **Engineering Designing**
