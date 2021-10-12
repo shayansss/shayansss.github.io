@@ -13,7 +13,9 @@ Coming soon
 ## MSc Thesis
 ---------
 **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
-**Supervisory team:** Prof. Mohammad Haghpanahi and Prof. Mohammad Razi 
+
+**Supervisory team:** Prof. Mohammad Haghpanahi and Prof. Mohammad Razi
+
 **Full document:** This [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is written in Persian, and therefore, for English speakers, I recommend instead the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, containing most results.
 
 ### Summary
@@ -23,7 +25,7 @@ It has been experimentally proposed that the discrete phases of articular cartil
 
 #### Methodology
 While the poroelastic constitutive equations were utilized for SBs, AC was modeled multiphysically, as follows:
-{\mathbf{\sigma}^{TOT}=\mathbf{\sigma}}^{COL}+\mathbf{\sigma}^{MAT}+\mathbf{\sigma}^{GAG}-p\mathbf{I}
+${\mathbf{\sigma}^{TOT}=\mathbf{\sigma}}^{COL}+\mathbf{\sigma}^{MAT}+\mathbf{\sigma}^{GAG}-p\mathbf{I}$
 Where p is the fluid pressure, I the unit tensor,\ \mathbf{\sigma}^{TOT} the total Cauchy stress, \mathbf{\sigma}^{MAT} the stress in the non-fibrillar part of the AC extracellular matrix, \mathbf{\sigma}^{COL} the tensile stress in the fibrillar collagen network, and \mathbf{\sigma}^{GAG} the osmotic pressure contribution. The anisotropic and non-homogenous collagen network, as well as the other depth-dependent material parameters, were defined through the SDVINI subroutine prior to the main analysis. Then the calculated parameters were transferred to the UMAT subroutine to implement the custom material model (Figure 1). The UC and indentation tests were simulated in Abaqus by the axisymmetric quadrilateral, bilinear displacement, and pore pressure elements to compare the multiphasic stress variations in the healthy and damage BCUs. As UMAT subroutines typically make use of Newton’s method for the sake of FE linearization, the fourth-order consistent Jacobian tensors [1] in this method were also derived.
 
 Figure 1. Interplay between Abaqus and subroutines. Abaqus solved the FE model in three different steps: step 0 for extraction of initial coordinates, static step for pre-stress, and the other step for main OA analysis.
