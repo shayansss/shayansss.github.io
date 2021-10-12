@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-This list is updated on 11.10.2021.
 
 ## Full Journal Papers
 --------------
