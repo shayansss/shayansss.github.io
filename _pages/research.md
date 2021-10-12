@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-# PhD Dissertation
+## PhD Dissertation
 -------
 Coming soon
 
-# MSc Thesis: Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
+## MSc Thesis: Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
 ---------
 ## Full document
 
@@ -18,7 +18,11 @@ The [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is
 
 ## Unofficial summary
 
-**Introduction.** It has been experimentally proposed that the discrete phases of articular cartilage (AC), along with different subchondral bone (SB) tissues, known as the bone-cartilage unit (BCU), are biomechanically altered during osteoarthritis (OA) degeneration. However, a validated computational framework capturing all of the dominant changes in multiphasic parameters has not yet been developed. This study proposed a new validated finite element (FE) BCU model, which is a combination of several well-established nonlinear, depth-dependent (heterogeneous), fibril-reinforced (anisotropic), swelling (with pre-stress) models in order to simulate all the dominant multiphasic variations in BCUs. Accordingly, the material and geometrical variations in non-advanced OA were simulated via the computational implementation of unconfined compression (UC) and indentation compression tests. Therefore, it was hypothesized that such a multiphasic degeneration simulation can provide a considerably better understanding of BCU OA.
+**Introduction**
+
+## Introduction
+
+It has been experimentally proposed that the discrete phases of articular cartilage (AC), along with different subchondral bone (SB) tissues, known as the bone-cartilage unit (BCU), are biomechanically altered during osteoarthritis (OA) degeneration. However, a validated computational framework capturing all of the dominant changes in multiphasic parameters has not yet been developed. This study proposed a new validated finite element (FE) BCU model, which is a combination of several well-established nonlinear, depth-dependent (heterogeneous), fibril-reinforced (anisotropic), swelling (with pre-stress) models in order to simulate all the dominant multiphasic variations in BCUs. Accordingly, the material and geometrical variations in non-advanced OA were simulated via the computational implementation of unconfined compression (UC) and indentation compression tests. Therefore, it was hypothesized that such a multiphasic degeneration simulation can provide a considerably better understanding of BCU OA.
 
 #### Methodology
 While the poroelastic constitutive equations were utilized for SBs, AC was modeled multiphysically, as follows:
