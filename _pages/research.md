@@ -28,26 +28,26 @@ ${\mathbf{\sigma}^{TOT}=\mathbf{\sigma}}^{COL}+\mathbf{\sigma}^{MAT}+\mathbf{\si
 
 Where $p$ is the fluid pressure, $I$ the unit tensor,$\ \mathbf{\sigma}^{TOT}$ the total Cauchy stress, $\mathbf{\sigma}^{MAT}$ the stress in the non-fibrillar part of the AC extracellular matrix, $\mathbf{\sigma}^{COL}$ the tensile stress in the fibrillar collagen network, and $\mathbf{\sigma}^${GAG} the osmotic pressure contribution. The anisotropic and non-homogenous collagen network, as well as the other depth-dependent material parameters, were defined through the SDVINI subroutine prior to the main analysis. Then the calculated parameters were transferred to the UMAT subroutine to implement the custom material model (Figure 1). The UC and indentation tests were simulated in Abaqus by the axisymmetric quadrilateral, bilinear displacement, and pore pressure elements to compare the multiphasic stress variations in the healthy and damage BCUs. As UMAT subroutines typically make use of Newton’s method for the sake of FE linearization, the fourth-order consistent Jacobian tensors [1] in this method were also derived.
 
-![image info](https://shayansss.github.io/files/img/msc(1).jpg)
+![image info](https://shayansss.github.io/files/img/msc(1).png)
 **Figure 1.** Interplay between Abaqus and subroutines. Abaqus solved the FE model in three different steps: step 0 for extraction of initial coordinates, static step for pre-stress, and the other step for main OA analysis.
 In order to simulate the multiphasic degeneration effects in OA, the material and geometrical properties were altered. These alterations, including the collagen softening, and the changes in the permeability and fluid fraction, together with the constitutive equations of each phase were adapted from the previous studies [2]–[6] and then incorporated into the FE BCU model, which was validated by replication of some other experimental tests with this new model. For example, an experimental compression test [7] was replicated, representing the model accuracy (Figure 2). Moreover, to study the possible fibrillar abnormalities during OA, the influence of the fibrillation and fibrillar rotation were simulated by randomizing the fibrillar directions [8] and rotating the split-lines in upper AC layers, respectively (Figure 3).
 
-![image info](https://shayansss.github.io/files/img/msc(2).jpg)
+![image info](https://shayansss.github.io/files/img/msc(1).jpg)
 **Figure 2.** Validation stress-strain plots, measured from a confined compression test, proposed by Schinagl et al. [5] and replicated by Wilson et al. [2], in terms of (a) constituent stresses and (b) total stresses in AC upper layers.
 
-![image info](https://shayansss.github.io/files/img/msc(3).jpg)
+![image info](https://shayansss.github.io/files/img/msc(2).png)
 **Figure 3.** Split line patterns on the AC surface (left) and primary fibril directions by the arcade-like structure [9] with considering split line torsions or rotations θ (redrawn from [10] and [11]).
 
 ### Results
 The main results shed light on the significant biomechanical role of the fluid and osmotic pressure parameters plus the calcified cartilage stress variations (Figure 4), along with the insignificant role of minor fibrillar abnormalities in load sharings of the SBs during OA (Figure 5). Furthermore, in agreement with some experimental observations [12], [13], the indentation simulation put the emphasis on the importance of the mass transport in SBs (Figure 6). Interestingly, the degeneration severely reduced the fluid permeation through SBs so that only a small amount of the fluid could flow into the subchondral trabecular bone in contrast to the healthy BCU, where the fluid could flow through the whole SB tissues. This result would have been completely different if the FE model had only simulated the permeability alterations [3], indicating the importance of the multiphasic degeneration simulation and consequently confirming the hypothesis. In conclusion, this study demonstrates the importance of multiphasic simulation of OA in BCUs and support the notion that SBs might play a role in the pathogenesis of OA.
 
-![image info](https://shayansss.github.io/files/img/msc(4).jpg)
+![image info](https://shayansss.github.io/files/img/msc(2).png)
 **Figure 4.**  Contributions of BCU parts at peak loads of (left) UC and (right) indentation tests. The recorded data of intact AC phases are in conformity with the recent study [14], which indirectly verified the model fidelity.
 
-![image info](https://shayansss.github.io/files/img/msc(5).jpg)
+![image info](https://shayansss.github.io/files/img/msc(3).png)
 **Figure 35.**  Simulation of fibrillar abnormalities, including (left) fibrillations, which only affected the AC upper layers, and (right) fibrillar rotations (torsions), which slightly altered the elasticity of BCUs. Also, the mesh-refinement study verified the numerical accuracy.
  
- ![image info](https://shayansss.github.io/files/img/msc(6).jpg)
+ ![image info](https://shayansss.github.io/files/img/msc(4).png)
 **Figure 6.**  Indentation simulation results for pore (fluid) pressure and (effective) fluid velocity at peak load.
 
 ### References
