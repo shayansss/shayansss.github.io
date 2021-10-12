@@ -7,7 +7,7 @@ author_profile: true
 
 ## PhD Dissertation (Ongoing Project)
 -------
-  * **Title:** Advanced and Efficient Numerical Analysis of Articular Cartilage by Multiphysics and Machine Learning
+  * **Title:** advanced and efficient numerical analysis of articular cartilage by multiphysics and machine learning
   * **Other main contributors**:
       * Supervisor: [Prof. Bruno Carpentieri](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Free University of Bozen-Bolzano)
       * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Graz University of Technology)
@@ -25,7 +25,7 @@ author_profile: true
 
 ## MSc Thesis
 -------
-  * **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
+  * **Title:** computational and biomechanical investigation into the degeneration of the main articular cartilage constituents in osteoarthritis
   * **Other main contributors**:
       * Supervisor: [Prof. Mohammad Haghpanahi](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Iran University of Science & Technology)
       * Advisor: [Prof. Mohammad Razi](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Iran University of Medical Sciences)
@@ -37,25 +37,19 @@ author_profile: true
       * 1 GitHub GitHub repository
   * **Download link:** The [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is mostly written in Persian, and therefore, for English speakers, I recommend downloading instead the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
 
-## Other (minor) projects
+## Other (Minor) Projects
 -------
-  * **MSc seminar**: Important Biomechanical Parameters of Knee Cartilage
-  * **BSc final project**: Modeling of a gearbox by Solidworks
-  * **Internship reports**:
-      * Analysis of the Loads in Complex Structures
-      * Investigation of Continuous Mathematical Models and Relavant Considerations
-  * **BioFluid Mechanics**
-  * **Composites**
-  * **Engineering Designing**
-  * **FEM Course**
-  * **Material Sciences**
-  * **Mechanisms**
-  * **Mesuring Systems**
-  * **Orthopedic Biomechanics**
-  * **Physics**
-  * **Research Methods**
-  * **Robotics**
-  * **Thermodynamics**
-  * **Turbomachinery**
-  * **Welding**
-  * **Coronary Stenting**
+  * **Technical reports**:
+      * Important biomechanical parameters of knee cartilage
+      * Analysis of the loads in complex structures
+      * Investigation of continuous mathematical models and relevant considerations
+  * **Lector notes**
+      * Bioengineering aspects of coronary stents (containing around 200 pages)
+      * Differential equations
+      * Continuum mechanics
+      * Biofluid mechanics
+  * **Main coursework projects**:
+      * Modeling of a gearbox by SolidWorks 
+      * An optimization algorithm for airplane engineering design
+      * Cartilage models for Abaqus UMAT implementation
+      * Matlab for nonlinear finite element modeling
