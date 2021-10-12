@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 
-## PhD Dissertation
+# PhD Dissertation
 -------
 Coming soon
 
-## MSc Thesis: Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
+# MSc Thesis: Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
 ---------
 ## Full document
 
