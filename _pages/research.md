@@ -44,7 +44,7 @@ author_profile: true
       * Analysis of the loads in complex structures
       * Investigation of continuous mathematical models and relevant considerations
       * Friction equations for hexapod robot modeling (as part of a contributory project)
-  * **Lector notes**
+  * **Lector notes**:
       * Bioengineering aspects of coronary stents (containing around 200 pages)
       * Differential equations
       * Continuum mechanics
