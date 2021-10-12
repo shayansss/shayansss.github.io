@@ -10,15 +10,11 @@ author_profile: true
 -------
 Coming soon
 
-## MSc Thesis:
+## MSc Thesis: Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
 ---------
-### Important information
+**Full document:** This [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is written in Persian, and therefore, for English speakers, I recommend instead downloading the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results. This work is supervised by Prof. Mohammad Haghpanahi and Prof. Mohammad Razi.
 
-  * **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
-  * **Supervisory team:** Prof. Mohammad Haghpanahi and Prof. Mohammad Razi
-  * **Full document:** This [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is written in Persian, and therefore, for English speakers, I recommend instead downloading the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
-
-#### Summary
+### Summary
 **Introduction.** It has been experimentally proposed that the discrete phases of articular cartilage (AC), along with different subchondral bone (SB) tissues, known as the bone-cartilage unit (BCU), are biomechanically altered during osteoarthritis (OA) degeneration. However, a validated computational framework capturing all of the dominant changes in multiphasic parameters has not yet been developed. This study proposed a new validated finite element (FE) BCU model, which is a combination of several well-established nonlinear, depth-dependent (heterogeneous), fibril-reinforced (anisotropic), swelling (with pre-stress) models in order to simulate all the dominant multiphasic variations in BCUs. Accordingly, the material and geometrical variations in non-advanced OA were simulated via the computational implementation of unconfined compression (UC) and indentation compression tests. Therefore, it was hypothesized that such a multiphasic degeneration simulation can provide a considerably better understanding of BCU OA.
 
 #### Methodology
