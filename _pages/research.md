@@ -1,14 +1,19 @@
 ---
 layout: archive
-title: "Academic Research"
+title: "Main Academic Research"
 permalink: /research/
 author_profile: true
 ---
-In the following, a brief overview of my main academic research is presented.
 
-## PhD dissertation (coming soon)
+
+## PhD Dissertation
 -------
+Coming soon
 
-
-## MSc thesis (coming soon)
+## MSc Thesis
 ---------
+Coming soon
+
+## BSc Main Project
+---------
+Coming soon
