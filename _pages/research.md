@@ -39,19 +39,19 @@ author_profile: true
 
 ## Other (minor) projects
 -------
-  1. **BSc project**
-  1. **BioFluid Mechanics**
-  1. **Composites**
-  1. **Engineering Designing**
-  1. **FEM Course**
-  1. **Material Sciences**
-  1. **Mechanisms**
-  1. **Mesuring Systems**
-  1. **Orthopedic Biomechanics**
-  1. **Physics**
-  1. **Research Methods**
-  1. **Robotics**
-  1. **Thermodynamics**
-  1. **Turbomachinery**
-  1. **Welding**
-  1. **Coronary Stenting**
+  * **BSc project**
+  * **BioFluid Mechanics**
+  * **Composites**
+  * **Engineering Designing**
+  * **FEM Course**
+  * **Material Sciences**
+  * **Mechanisms**
+  * **Mesuring Systems**
+  * **Orthopedic Biomechanics**
+  * **Physics**
+  * **Research Methods**
+  * **Robotics**
+  * **Thermodynamics**
+  * **Turbomachinery**
+  * **Welding**
+  * **Coronary Stenting**
