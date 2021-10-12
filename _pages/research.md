@@ -10,11 +10,13 @@ author_profile: true
 -------
 Coming soon
 
-## MSc Thesis
+## MSc Thesis:
 ---------
+### Important information
+
   * **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
   * **Supervisory team:** Prof. Mohammad Haghpanahi and Prof. Mohammad Razi
-  * **Full document:** This [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is written in Persian, and therefore, for English speakers, I recommend instead the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, containing most results.
+  * **Full document:** This [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is written in Persian, and therefore, for English speakers, I recommend instead downloading the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
 
 ### Summary
 
