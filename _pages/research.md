@@ -12,7 +12,7 @@ Coming soon
 
 ## MSc Thesis:
 ---------
-### Important information
+##### Important information
 
   * **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
   * **Supervisory team:** Prof. Mohammad Haghpanahi and Prof. Mohammad Razi
