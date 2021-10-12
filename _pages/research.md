@@ -5,11 +5,25 @@ permalink: /research/
 author_profile: true
 ---
 
-### PhD Dissertation (Ongoing project)
+## PhD Dissertation (Ongoing project)
 -------
-Coming soon
+  * **Title:** coming soon
+  * **Other contributors**:
+      * Supervisor: [Prof. Bruno Carpentieri](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Free University of Bozen-Bolzano)
+      * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Graz University of Technology)
+      * Collaborator: [Dr. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"} (Graz University of Technology)
+  * **Abstract:** Published once the project is finished.
+  * **Research outcomes (so far):**
+      * **2 relavant peer-reviewed publications:**
+          * 1 full journal paper
+          * 1 full conference proceedings paper
+      * 1 working paper
+      * 2 international presentations
+      * 2 GitHub repositories
+  * **Download link:** Published once the project is finished.
 
-### MSc Thesis
+
+## MSc Thesis
 -------
   * **Title:** Computational and Biomechanical Investigation into the Degeneration of the Main Articular Cartilage Constituents in Osteoarthritis
   * **Other contributors**:
@@ -20,7 +34,7 @@ Coming soon
       * **2 peer-reviewed journal publications:**
           * 1 relevant full paper
           * 1 irrelevant short paper
-      * 1 GitHub repo
+      * 1 GitHub GitHub repository
   * **Download link:** The [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is mostly written in Persian, and therefore, for English speakers, I recommend downloading instead the [relavant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
 
 ## Other (minor) projects
