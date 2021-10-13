@@ -7,7 +7,7 @@ author_profile: true
 
 ## PhD Dissertation (Ongoing Project)
 -------
-  * **Title:** advanced and efficient numerical analysis of articular cartilage by multiphysics and machine learning
+  * **Title:** Advanced and efficient numerical analysis of articular cartilage by multiphysics and machine learning
   * **Other main contributors**:
       * Supervisor: [Prof. Bruno Carpentieri](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Free University of Bozen-Bolzano)
       * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Graz University of Technology)
@@ -23,7 +23,7 @@ author_profile: true
 
 ## MSc Thesis
 -------
-  * **Title:** computational and biomechanical investigation into the degeneration of the main articular cartilage constituents in osteoarthritis
+  * **Title:** Computational and biomechanical investigation into the degeneration of the main articular cartilage constituents in osteoarthritis
   * **Other main contributors**:
       * Supervisor: [Prof. Mohammad Haghpanahi](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Iran University of Science & Technology)
       * Advisor: [Prof. Mohammad Razi](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Iran University of Medical Sciences)
