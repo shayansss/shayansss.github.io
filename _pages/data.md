@@ -14,4 +14,4 @@ This page is not complete.
       * Datasets (CSV files for physics-based results)
       * Finite element model (by Abaqus and its Python script)
       * Visualization (by Abaqus and Matplotlib)
-  * **More information**: See the open-sourced [repository](https://github.com/shayansss/pmse) or the relavant [paper](...).
+  * **More information**: See the open-sourced [repository](https://github.com/shayansss/pmse){:target="_blank"} or the relavant [paper](...){:target="_blank"}.
