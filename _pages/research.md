@@ -22,7 +22,6 @@ author_profile: true
       * 2 GitHub repositories
   * **Download link:** Not available, since the work is ongoing.
 
-
 ## MSc Thesis
 -------
   * **Title:** computational and biomechanical investigation into the degeneration of the main articular cartilage constituents in osteoarthritis
@@ -37,7 +36,7 @@ author_profile: true
       * 1 GitHub repository
   * **Download link:** The [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is mostly written in Persian, and therefore, for English speakers, I recommend downloading instead the [relevant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
 
-## Other (Minor) Projects
+## Other Important Projects
 -------
   * **Important biomechanical parameters of knee cartilage** (a seminar report)
   * **Friction modeling** (a report as part of a contributory project in hexapod robot modeling)
