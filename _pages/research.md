@@ -37,7 +37,6 @@ author_profile: true
 ## Other Minor (but Important) Projects
 -------
 The following projects are not publicly published but can be shared specifically upon a reasonable request.
-
   * **Important biomechanical parameters of knee cartilage** (the MSc seminar report)
   * **Friction modeling** (as part of a contributory project in hexapod robot modeling)
   * **Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
