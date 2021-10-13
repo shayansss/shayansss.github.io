@@ -39,18 +39,9 @@ author_profile: true
 
 ## Other (Minor) Projects
 -------
-  * **Technical reports**:
-      * Important biomechanical parameters of knee cartilage
-      * Analysis of the loads in complex structures
-      * Investigation of continuous mathematical models and relevant considerations
-      * Friction equations for hexapod robot modeling (as part of a contributory project)
-  * **Lector notes**:
-      * Bioengineering aspects of coronary stents (containing around 200 pages)
-      * Differential equations
-      * Continuum mechanics
-      * Biofluid mechanics
-  * **Main coursework projects**:
-      * Modeling of a gearbox by SolidWorks 
-      * An optimization algorithm for airplane engineering design
-      * Cartilage models for Abaqus UMAT implementation
-      * Matlab for nonlinear finite element modeling
+  * **Important biomechanical parameters of knee cartilage** (a seminar report)
+  * **Friction modeling** (a report as part of a contributory project in hexapod robot modeling)
+  * **Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
+  * **Modeling of a gearbox by SolidWorks** (the BSc final project)
+  * **Damaged cartilage modeling using Abaqus UMAT implementation** (a technical report)
+  * **Matlab for nonlinear finite element modeling** (a technical report)
