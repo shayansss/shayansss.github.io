@@ -36,10 +36,10 @@ author_profile: true
 
 ## Other Minor (but Important) Projects
 -------
-The following projects are not publicly published but can be shared specifically upon a reasonable request.
+The following projects have not been publicly published but can be shared specifically upon a reasonable request.
   * **Important biomechanical parameters of knee cartilage** (the MSc seminar report)
   * **Friction modeling** (as part of a contributory project in hexapod robot modeling)
   * **Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
-  * **Modeling of a gearbox by SolidWorks** (the BSc final project)
   * **Damaged cartilage modeling using Abaqus UMAT implementation** (a technical report)
   * **Matlab for nonlinear finite element modeling** (a technical report)
+  * **Modeling of a gearbox by SolidWorks** (the BSc final project)
