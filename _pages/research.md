@@ -34,8 +34,10 @@ author_profile: true
       * 1 GitHub repository
   * **Download link:** The [thesis](https://shayansss.github.io/files/2017_12.pdf){:target="_blank"} is mostly written in Persian, and therefore, for English speakers, I recommend downloading instead the [relevant full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"}, as it contains most of the results.
 
-## Other Important Projects
+## Other Minor (but Important) Projects
 -------
+The following projects are not publicly published but can be shared specifically upon a reasonable request.
+
   * **Important biomechanical parameters of knee cartilage** (the MSc seminar report)
   * **Friction modeling** (as part of a contributory project in hexapod robot modeling)
   * **Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
