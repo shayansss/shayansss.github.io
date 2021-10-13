@@ -38,11 +38,9 @@ author_profile: true
 -------
 The following projects are not publicly published but can be shared specifically upon a reasonable request.
 
-**Important biomechanical parameters of knee cartilage** (the MSc seminar report)
-
-**Friction modeling** (as part of a contributory project in hexapod robot modeling)
-
-**Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
-**Modeling of a gearbox by SolidWorks** (the BSc final project)
-**Damaged cartilage modeling using Abaqus UMAT implementation** (a technical report)
-**Matlab for nonlinear finite element modeling** (a technical report)
+  * **Important biomechanical parameters of knee cartilage** (the MSc seminar report)
+  * **Friction modeling** (as part of a contributory project in hexapod robot modeling)
+  * **Bioengineering aspects of coronary stents** (an extensive report with around 200 pages)
+  * **Modeling of a gearbox by SolidWorks** (the BSc final project)
+  * **Damaged cartilage modeling using Abaqus UMAT implementation** (a technical report)
+  * **Matlab for nonlinear finite element modeling** (a technical report)
