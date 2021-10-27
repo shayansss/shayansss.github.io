@@ -11,7 +11,7 @@ author_profile: true
   * **Other main contributors**:
       * Supervisor: [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"}
       * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}
-      * Collaborator: [Dr. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"} (Singapore University of Technology and Design)
+      * Collaborator: [Dr. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"}
   * **Research outcomes (so far):**
       * 2 relevant peer-reviewed publications:
           * 1 full journal paper
@@ -25,8 +25,8 @@ author_profile: true
 -------
   * **Title:** Computational and biomechanical investigation into the degeneration of the main articular cartilage constituents in osteoarthritis
   * **Other main contributors**:
-      * Supervisor: [Prof. Mohammad Haghpanahi](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"} (Iran University of Science & Technology)
-      * Advisor: [Prof. Mohammad Razi](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"} (Iran University of Medical Sciences)
+      * Supervisor: [Prof. Mohammad Haghpanahi](http://www.iust.ac.ir/content/892/haghpanahi){:target="_blank"}
+      * Advisor: [Prof. Mohammad Razi](https://scholar.google.com/citations?user=Y2XjYRkAAAAJ&hl=en){:target="_blank"}
   * **Research outcomes:**
       * 2 peer-reviewed journal publications:
           * 1 relevant full paper
