@@ -13,5 +13,5 @@ author_profile: true
 
 ## Poster Presentation (or Abstract)
 --------------
-- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021, November 8–11) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," The 3rd International Conference on Machine Learning and Intelligent Systems, Xiamen, China.
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021, November 8–11) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," 3rd International Conference on Machine Learning and Intelligent Systems, Xiamen, China.
 <br/>[POSTER](https://shayansss.github.io/files/2021_10_p.pdf){:target="_blank"}
