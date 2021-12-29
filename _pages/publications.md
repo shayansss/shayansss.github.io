@@ -16,7 +16,7 @@ author_profile: true
 
 ## Full Conference Proceedings Paper
 --------------
-- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, Antonio J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, A. J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
 <br/>[DOI](http://dx.doi.org/10.3233/FAIA210386){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}
 
 ## Short Paper
