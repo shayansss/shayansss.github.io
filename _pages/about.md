@@ -20,6 +20,6 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 
 ## Last updates
-- Our conference proceedings full-peer-reviewed paper is accepted for publication, which I will present by a poster at [MLIS 2021](http://www.machinelearningconf.org/){:target="_blank"}, on 8 - 11 November.
+- See our new published [conference proceedings full-peer-reviewed paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}.
+- Our conference paper is accepted for publication, which I will present by a poster at [MLIS 2021](http://2021.machinelearningconf.org/){:target="_blank"}, on 8 - 11 November.
 - I am going to have an oral presentation at [CMBBE 2021](https://www.cmbbe-symposium.com/2021/){:target="_blank"} on 8 September, 14:15-16:00 CET as part of a [special session](https://program.m-anage.com/cmbbe2021/en-US/ProgramSearch/Program/?searchstring=&programid=98728&pProgramGrade=All&pHideLogin=False&pHidePersonal=False&pShowPrivate=False){:target="_blank"}.
-- I am going to present a poster at the Free University of Bozen-Bolzano (room F6) on Monday, 12 July, 16:30-17:15 CET.
