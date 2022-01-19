@@ -11,7 +11,7 @@ author_profile: true
   * **Other main contributors**:
       * Supervisor: [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"}
       * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}
-      * Collaborator: [Dr. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"}
+      * Collaborator: [Prof. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"}
   * **Research outcomes (so far):**
       * 2 relevant peer-reviewed publications:
           * 1 full journal paper
