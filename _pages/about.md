@@ -20,6 +20,6 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 
 ## Last updates
+- Our new manuscript is now under review for possible publication as a full journal paper, where we developed a novel hybrid machine learning method to be used as a surrogate for biomechanical modeling of soft tissues. For more, see this symposium [presentation](https://shayansss.github.io/files/2021_09_p.mp4){:target="_blank"} of the preliminary version of this study.
 - See our new published [conference proceedings full-peer-reviewed paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}.
 - Our conference paper is accepted for publication, which I will present by a poster at [MLIS 2021](http://2021.machinelearningconf.org/){:target="_blank"}, on 8 - 11 November.
-- I am going to have an oral presentation at [CMBBE 2021](https://www.cmbbe-symposium.com/2021/){:target="_blank"} on 8 September, 14:15-16:00 CET as part of a [special session](https://program.m-anage.com/cmbbe2021/en-US/ProgramSearch/Program/?searchstring=&programid=98728&pProgramGrade=All&pHideLogin=False&pHidePersonal=False&pShowPrivate=False){:target="_blank"}.
