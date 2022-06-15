@@ -13,12 +13,12 @@ author_profile: true
       * Co-supervisor: [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}
       * Collaborator: [Prof. Shriram Duraisamy](https://scholar.google.com/citations?user=HtBrxbsAAAAJ&hl=en){:target="_blank"}
   * **Research outcomes (so far):**
-      * 2 relevant peer-reviewed publications:
-          * 1 full journal paper
+      * 3 relevant peer-reviewed publications:
+          * 2 full journal paper
           * 1 full conference proceedings paper
       * 1 working paper
       * 2 international presentations
-      * 2 GitHub repositories
+      * 3 GitHub repositories
   * **Download link:** Not available, since the work is ongoing.
 
 ## MSc Thesis

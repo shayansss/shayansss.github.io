@@ -20,7 +20,7 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 
 ## Last updates
-- Our new [paper](https://shayansss.github.io/files/2022_06_preprint.pdf){:target="_blank"} is now accepted for publication and will appear in the journal of Computers in Biology and Medicine.
+- Our new [paper](https://shayansss.github.io/files/2022_06.pdf){:target="_blank"} is now accepted for publication in the journal of Computers in Biology and Medicine.
 - Our new manuscript is now under review for possible publication as a full journal paper, where we developed a novel hybrid machine learning method to be used as a surrogate for biomechanical modeling of soft tissues. For more, see this symposium [presentation](https://shayansss.github.io/files/2021_09_p.mp4){:target="_blank"} of the preliminary version of this study.
 - See our new published [conference proceedings full-peer-reviewed paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}.
 - Our conference paper is accepted for publication, which I will present by a poster at [MLIS 2021](http://2021.machinelearningconf.org/){:target="_blank"}, on 8 - 11 November.
