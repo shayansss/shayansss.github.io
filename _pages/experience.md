@@ -11,7 +11,9 @@ redirect_from:
 
 
 
-    <style type="text/css">
+
+
+<style type="text/css">
         :root {
   --primary-color: #ffffff;
   --background-color: rgb(255, 255, 255);
