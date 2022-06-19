@@ -68,7 +68,7 @@ extensions
 */
 
 .time__month{
-  margin-left: var(--timelineMounthMarginLeft, .25em);
+  
 }
 
 /*
