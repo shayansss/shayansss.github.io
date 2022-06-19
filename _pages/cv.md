@@ -10,5 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
-Since I have different skills and qualifications in several fields, I usually customize my CV by including only the related data. To see a general CV without such customizations, please see my [Linkedin profile](https://www.linkedin.com/in/shayansajjadi/){:target="_blank"}.
+Please see my [Linkedin profile](https://www.linkedin.com/in/shayansajjadi/){:target="_blank"}.
 
