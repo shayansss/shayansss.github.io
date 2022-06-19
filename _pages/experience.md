@@ -138,7 +138,7 @@ body {
   right: -45px;
 }
     </style>
-    <div class="timeline">
+<div class="timeline">
   <div class="outer">
     <div class="card">
       <div class="info">
