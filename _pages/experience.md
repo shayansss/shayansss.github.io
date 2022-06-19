@@ -161,7 +161,7 @@ redirect_from:
 
 
 
-## 11/2019 – Present: PhD Candidate
+## 11/2019 – Present: PhD Candidate--
 --------------
 * Full-time
 * Faculty of Computer Science, Free University of Bozen-Bolzano, Bolzano, Italy
