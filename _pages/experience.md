@@ -230,8 +230,6 @@ p:last-child{
 }
 
 .page{
-  max-width: 47rem;
-  padding: 5rem 2rem 3rem;
   margin-left: auto;
   margin-right: auto;
 }
@@ -272,6 +270,8 @@ p:last-child{
     text-decoration: var(--uirLinkTextDecoration) !important;
 }
     </style>
+
+    
 <div class="page">
   <div class="timeline">
     <div class="timeline__group">
