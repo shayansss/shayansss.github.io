@@ -170,7 +170,6 @@ SKIN
 
 .timeline__card{
   position: relative;
-  margin-left: var(--timelineCardLineGap, 1rem);
 }
 
 /*
