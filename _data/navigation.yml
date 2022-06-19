@@ -1,10 +1,10 @@
 # main links
 main:    
-  - title: "Experience"
-    url: /experience/
+  - title: "CV"
+    url: /cv/
 
-  - title: "Research"
-    url: /research/
+  - title: "Data"
+    url: /opendata/
 
   - title: "Presentations"
     url: /presentations/
