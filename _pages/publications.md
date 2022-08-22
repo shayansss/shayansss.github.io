@@ -8,8 +8,8 @@ author_profile: true
 
 ## Full Journal Papers
 --------------
-- **Sajjadinia, S. S.**, Carpentieri, B., Shriram, D. and Holzapfel, G. A. (**in press**) "Multi-fidelity surrogate modeling through hybrid machine learning for biomechanical and finite element analysis of soft tissues," Computers in Biology and Medicine.
-<br/>[DOI](https://doi.org/10.1016/j.compbiomed.2022.105699){:target="_blank"} | [PDF](https://shayansss.github.io/files/2022_06.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2022_06.bib)
+- **Sajjadinia, S. S.**, Carpentieri, B., Shriram, D. and Holzapfel, G. A. (2022) "Multi-fidelity surrogate modeling through hybrid machine learning for biomechanical and finite element analysis of soft tissues, p., 105699" Computers in Biology and Medicine.
+<br/>[DOI](https://doi.org/10.1016/j.compbiomed.2022.105699){:target="_blank"} | [PDF](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2022_09.bib)
 
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A backward pre-stressing algorithm for efficient finite element implementation of in vivo material and geometrical parameters into fibril-reinforced mixture models of articular cartilage," Journal of the Mechanical Behavior of Biomedical Materials, 114, p. 104203.
 <br/>[DOI](http://doi.org/10.1016/J.JMBBM.2020.104203){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2021_02.bib)
