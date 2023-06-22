@@ -27,6 +27,6 @@ author_profile: true
 
 ## Invited book chapter
 --------------
-- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley.
 
 *in press*
