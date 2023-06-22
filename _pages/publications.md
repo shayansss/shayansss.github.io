@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Peer-reviewed journal articles
+## Journal articles
 --------------
 - **Sajjadinia, S. S.**, Carpentieri, B., Shriram, D. and Holzapfel, G. A. (2022) "Multi-fidelity surrogate modeling through hybrid machine learning for biomechanical and finite element analysis of soft tissues," Computers in Biology and Medicine, p. 105699.
 <br/>[DOI](https://doi.org/10.1016/j.compbiomed.2022.105699){:target="_blank"} | [PDF](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2022_09.bib)
@@ -20,7 +20,12 @@ author_profile: true
 - **Sajjadinia, S. S.**, Haghpanahi, M. and Razi, M. (2019) "Computational simulation of the multiphasic degeneration of the bone-cartilage unit during osteoarthritis via indentation and unconfined compression tests," Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine, 233(9), pp. 871–882.
 <br/>[DOI](http://doi.org/10.1177/0954411919854011){:target="_blank"} | [PDF](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2019_09.bib)
 
-## Peer-reviewed conference proceedings article
+## Conference proceedings article
 --------------
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, A. J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
 <br/>[DOI](http://dx.doi.org/10.3233/FAIA210386){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2021_11.bib)
+
+## Invited book chapter
+--------------
+- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley
+*in press*
