@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## About me
-I am currently a [PhD student in Computer Science](https://www.unibz.it/en/faculties/computer-science/phd-computer-science/phd-students/phd/42428-seyed-shayan-sajjadinia){:target="_blank"} at the Free University of Bozen-Bolzano, under the supervision of [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"} and [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}. With a background in mechanical and biomedical engineering, I focus my research on the intersections of these fields, specifically leveraging numerical analysis and artificial intelligence.
-
-I utilize finite element methods for physics-based modeling and employ machine learning techniques for data-driven modeling. I am passionate about integrating these techniques, as I believe that their combination can overcome their limitations. Therefore, my recent academic endeavors have been devoted to exploring these methods individually and in combination.
+I am currently a [PhD student in Computer Science](https://www.unibz.it/en/faculties/computer-science/phd-computer-science/phd-students/phd/42428-seyed-shayan-sajjadinia){:target="_blank"} at the Free University of Bozen-Bolzano, under the supervision of [Prof. Bruno Carpentieri](https://www.unibz.it/en/faculties/computer-science/academic-staff/person/38064-bruno-carpentieri){:target="_blank"} and [Prof. Gerhard A. Holzapfel](https://www.biomech.tugraz.at/){:target="_blank"}. With a background in mechanical and biomedical engineering, I focus my research on the intersections of these fields, specifically leveraging numerical analysis and artificial intelligence. I utilize finite element methods for physics-based modeling and employ machine learning techniques for data-driven modeling. I am passionate about integrating these techniques, as I believe that their combination can overcome their limitations. Therefore, my recent academic endeavors have been devoted to exploring these methods individually and in combination.
 
 ## Publications
 **Journal articles**
