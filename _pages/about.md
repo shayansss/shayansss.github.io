@@ -25,11 +25,11 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 <br/>[DOI](http://doi.org/10.1177/0954411919854011){:target="_blank"} | [PDF](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2019_09.bib)
 
 **Conference proceedings article**
-  **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, A. J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
+  - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, A. J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
 <br/>[DOI](http://dx.doi.org/10.3233/FAIA210386){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2021_11.bib)
 
 **Invited book chapter**
-- **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley.
+  - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley.
 <br/><i>in press</i>
 
 ## International presentations
