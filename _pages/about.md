@@ -12,6 +12,7 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 ## Publications
 **Journal articles**:
+
 - **Sajjadinia, S. S.**, Carpentieri, B., Shriram, D. and Holzapfel, G. A. (2022) "Multi-fidelity surrogate modeling through hybrid machine learning for biomechanical and finite element analysis of soft tissues," Computers in Biology and Medicine, p. 105699.
 <br/>[DOI](https://doi.org/10.1016/j.compbiomed.2022.105699){:target="_blank"} | [PDF](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2022_09.bib)
 
@@ -25,6 +26,7 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 <br/>[DOI](http://doi.org/10.1177/0954411919854011){:target="_blank"} | [PDF](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2019_09.bib)
 
 **Conference proceedings article**:
+
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," in Tallón-Ballesteros, A. J. (ed.), Proceedings of CECNet 2021, Frontiers in Artificial Intelligence and Applications, 345, pp. 26–34. 
 <br/>[DOI](http://dx.doi.org/10.3233/FAIA210386){:target="_blank"} | [PDF](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"} | [BibTeX](https://shayansss.github.io/files/2021_11.bib)
 
@@ -34,13 +36,15 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 
 ## International presentations
 **Oral presentations**:
+
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2023, May 3–5) "Bridging tissue-scale multi-physics to organ-scale biomechanics through multi-fidelity machine learning," 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering, Paris, France.
 <br/>[ABSTRACT](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"} | [SLIDES](https://shayansss.github.io/files/2023_05_s.pdf){:target="_blank"}
 
 - **Sajjadinia, S. S.**, Carpentieri, B., Shriram, D. and Holzapfel, G. A. (2021, September 7–9) "Biomechanical modeling of soft tissue multiphysics using hybrid machine learning and finite element analysis," 17th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering and 5th Conference on Imaging and Visualization, online.
 <br/>[ABSTRACT](https://shayansss.github.io/files/2021_09_a.pdf){:target="_blank"} | [SLIDES](https://shayansss.github.io/files/2021_09_s.pdf){:target="_blank"}
 
-**Poster presentations**
+**Poster presentations**:
+
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2023, May 3–5) "Large-scale finite element modeling of pre-stress in articular cartilage," 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering, Paris, France.
 <br/>[ABSTRACT](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"} | [POSTER](https://shayansss.github.io/files/2023_05_p.pdf){:target="_blank"}
 
