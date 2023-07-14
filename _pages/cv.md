@@ -10,5 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please see my [Linkedin profile](https://www.linkedin.com/in/shayansajjadi/){:target="_blank"}.
 
