@@ -33,6 +33,7 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley.
 <br/><i>in press</i>
 
+# International presentations
 ## Oral presentations
 ------------
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2023, May 3–5) "Bridging tissue-scale multi-physics to organ-scale biomechanics through multi-fidelity machine learning," 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering, Paris, France.
@@ -48,6 +49,5 @@ I am a [PhD student in Computer Science](https://www.unibz.it/en/faculties/compu
 - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021, November 8–11) "A pointwise evaluation metric to visualize errors in machine learning surrogate models," 3rd International Conference on Machine Learning and Intelligent Systems, online.
 <br/>[ABSTRACT](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"} | [POSTER](https://shayansss.github.io/files/2021_10_p.pdf){:target="_blank"}
 
-## Last updates
-- A new chapter is accepted for publication in a book, titled "Big Data Analysis and Artificial Intelligence for Medical Sciences".
-- My presentations in [CMBBE 2023](https://www.cmbbe-symposium.com/2023/){:target="_blank"} have been uploaded.
+# Curriculum Vitae
+Please see my [Linkedin profile](https://www.linkedin.com/in/shayansajjadi/){:target="_blank"}.
