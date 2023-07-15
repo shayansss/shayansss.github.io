@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Seyed Shayan Sajjadinia"
   avatar           : "main.jpg"
-  bio              : "My current research interests are machine learning and finite element analysis, focusing on the applications in orthopedic biomechanics."
+  bio              : "My current research interests are scientific programming (e.g., using Abaqus subroutines for numerical biomechanics) and machine learning (e.g., using TensorFlow for surrogate models)."
   location         : 
   employer         : 
   pubmed           : 
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "Shayanss"
 
 
 # Reading Files
