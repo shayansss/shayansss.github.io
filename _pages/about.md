@@ -12,7 +12,7 @@ redirect_from:
   - Outputs: [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}
   - Collaborators: Bruno Carpentieri, Gerhard A. Holzapfel
   - Technologies: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
-  - Fields: machine learning, finite element analysis, cartilage biomechanics
+  - Fields: machine learning, graph neural networks, surrogate modeling, cartilage biomechanics
 
 ## Hybrid Machine Learning for Multi-fidelity Surrogate Modeling of Soft Tissues
   - Category: completed subproject of PhD research
@@ -33,7 +33,7 @@ redirect_from:
   - Outputs: [open-source repository](https://github.com/shayansss/pmse){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"}
   - Collaborators: Bruno Carpentieri, Gerhard A. Holzapfel
   - Technologies: Python (TensorFlow, Keras, Matplotlib, Numpy, Sklearn), Abaqus scripting
-  - Fields: optimization, constitutive modeling, finite element analysis, cartilage biomechanics
+  - Fields: machine learning, graph neural networks, surrogate modeling
 
 ## Computational Modeling of Cartilage Biomechanics and Degeneration
   - Category: completed subproject of MSc research
