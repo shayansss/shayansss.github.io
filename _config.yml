@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Seyed Shayan Sajjadinia"
   avatar           : "main.jpg"
-  bio              : "My current research interests are scientific programming (e.g., using Abaqus subroutines for numerical biomechanics) and machine learning (e.g., using TensorFlow for surrogate models)."
+  bio              : "A last-year PhD candidate in computer science, under supervision of Prof. Carpentieri (unibz) and Prof. Holzapfel (TU Graz). "
   location         : 
-  employer         : 
+  employer         : Free University of Bozen-Bolzano (unibz)
   pubmed           : 
   googlescholar    : "https://scholar.google.it/citations?user=eBcTd_QAAAAJ&hl=en"
   email            : "ssajjadinia@unibz.it"
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "Shayanss"
+  wikipedia        : # "Shayanss"
 
 
 # Reading Files
