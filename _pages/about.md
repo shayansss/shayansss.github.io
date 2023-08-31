@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "My Academic Research Portfolio"
-excerpt: "My Academic Research Portfolio"
+title: "Academic Research Portfolio"
+excerpt: "Academic Research Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
