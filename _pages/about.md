@@ -12,14 +12,14 @@ redirect_from:
   - Outputs: [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}
   - Collaborators: Bruno Carpentieri, Gerhard A. Holzapfel
   - Technologies: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
-  - Fields: machine learning, graph neural networks, surrogate modeling, cartilage biomechanics
+  - Fields: few-shot learning, graph neural networks, finite element analysis, cartilage biomechanics
 
 ## Hybrid Machine Learning for Multi-fidelity Surrogate Modeling of Soft Tissues
   - Category: completed subproject of PhD research
   - Outputs: [open-source repository](https://github.com/shayansss/hml){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_09_a.pdf){:target="_blank"}
   - Collaborators: Bruno Carpentieri, Duraisamy Shriram, Gerhard A. Holzapfel
   - Technologies: Python (TensorFlow, Keras, Sonnet, Matplotlib, Numpy, Sklearn), Fortran (Abaqus subroutines)
-  - Fields: machine learning, graph neural networks, surrogate modeling, finite element analysis, soft tissue mechanics
+  - Fields: few-shot learning, graph neural networks, finite element analysis, soft tissue mechanics
 
 ## Inverse FEA of Cartilage Pre-Stressing with Material Optimization
   - Category: ongoing subproject of PhD research
@@ -33,7 +33,7 @@ redirect_from:
   - Outputs: [open-source repository](https://github.com/shayansss/pmse){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"}
   - Collaborators: Bruno Carpentieri, Gerhard A. Holzapfel
   - Technologies: Python (TensorFlow, Keras, Matplotlib, Numpy, Sklearn), Abaqus scripting
-  - Fields: machine learning, graph neural networks, surrogate modeling
+  - Fields: machine learning, evaluation metrics, finite element analysis
 
 ## Computational Modeling of Cartilage Biomechanics and Degeneration
   - Category: completed subproject of MSc research
