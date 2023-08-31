@@ -28,7 +28,7 @@ redirect_from:
   - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2021) “Hybrid data-driven and numerical modeling of articular cartilage” in Carpentieri, B. and Lecca, P. (eds.), Big Data Analysis and Artificial Intelligence for Medical Sciences. Wiley.
 <br/><i>in press</i>
 
-## Talk abstracts**
+## Talk abstracts
   - **Sajjadinia, S. S.**, Carpentieri, B. and Holzapfel, G. A. (2023, May 3–5) "Bridging tissue-scale multi-physics to organ-scale biomechanics through multi-fidelity machine learning," 18th International Symposium on Computer Methods in Biomechanics and Biomedical Engineering, Paris, France.
 <br/>[ABSTRACT](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"} | [SLIDES](https://shayansss.github.io/files/2023_05_s.pdf){:target="_blank"}
 
