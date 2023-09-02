@@ -4,7 +4,7 @@ author_profile: true
 ---
 <div align="center">
 <h1>Academic Research Portfolio</h1>
-<img src="https://shayansss.github.io/images/wordcloud.png"  width="50%"/>
+<img src="https://shayansss.github.io/images/wordcloud.png"  width="70%"/>
 </div>
 
 ## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
