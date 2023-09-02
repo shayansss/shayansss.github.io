@@ -1,10 +1,6 @@
 ---
 permalink: /
-excerpt: "Academic Research Portfolio"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Academic Research Portfolio"
 ---
 <p align="center">
   <img src="https://shayansss.github.io/images/wordcloud.png" />
