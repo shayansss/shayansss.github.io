@@ -16,7 +16,7 @@ author_profile: true
 
 ## Multi-Scale Graph Neural Networks in Cartilage Biomechanics
   - **Category**: ongoing subproject of PhD research
-  - **Outputs**: open-source repository (*in preparation*), [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, PhD dissertation (*in preparation*)
+  - **Outputs**: open-source repository (*in preparation*), [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, full journal paper (*in preparation*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
@@ -30,7 +30,7 @@ author_profile: true
 
 ## Inverse FEA of Cartilage Pre-Stressing with Material Optimization
   - **Category**: ongoing subproject of PhD research
-  - **Outputs**: [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}
+  - **Outputs**: [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}, conference proceedings paper (*in preparation*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (Numpy, SciPy, Matplotlib), Fortran (Abaqus subroutines)
   - **Fields**: mathematical optimization, numerical analysis, tissue mechanics
