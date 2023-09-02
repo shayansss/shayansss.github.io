@@ -1,11 +1,11 @@
 ---
 permalink: /
-excerpt: "Academic Research Portfolio"
 author_profile: true
 ---
-<p align="center">
-  <img src="https://shayansss.github.io/images/wordcloud.png" />
-</p>
+<div align="center">
+# Academic Research Portfolio
+<img src="https://shayansss.github.io/images/wordcloud.png" />
+</div>
 
 ## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
   - **Category**: ongoing subproject of PhD research
