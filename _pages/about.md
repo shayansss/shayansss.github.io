@@ -44,7 +44,7 @@ author_profile: true
 
 ## Multi-Physics and Numerical Analysis of Cartilage Biomechanics and Degeneration 
   - **Category**: completed subproject of MSc research
-  - **Outputs**: [open-source repository](https://github.com/shayansss/msc){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf{:target="_blank"}) (nearly the same as the MSc Thesis), [short journal paper](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
+  - **Outputs**: [open-source repository](https://github.com/shayansss/msc){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} (nearly the same as the MSc Thesis), [short journal paper](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
   - **Collaborators**: Mohammad Haghpanahi, Mohammad Razi
   - **Technologies**: Python (Numpy), Fortran (Abaqus subroutines)
   - **Fields**: numerical analysis, tissue mechanics
