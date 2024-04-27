@@ -36,8 +36,8 @@ author_profile: true
   - **Fields**: mathematical optimization, numerical analysis, tissue mechanics
 
 ## Point-wise Metric for Machine Learning in Finite Element Surrogate Modeling
-  - Category: completed subproject of PhD research
-  - Outputs: [open-source repository](https://github.com/shayansss/pmse){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"}
+  - **Category**: completed subproject of PhD research
+  - **Outputs**: [open-source repository](https://github.com/shayansss/pmse){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy, Sklearn), Abaqus scripting
   - **Fields**: data science, numerical analysis
