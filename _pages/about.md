@@ -7,7 +7,7 @@ author_profile: true
 <img src="https://shayansss.github.io/images/wordcloud.png"  width="50%"/>
 </div>
 
-## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
+## Analysis of Data-efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
   - **Category**: ongoing subproject of PhD research
   - **Outputs**: invited book chapter (*in press*), PhD dissertation (*in preparation*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
@@ -16,7 +16,7 @@ author_profile: true
 
 ## Multi-Scale Graph Neural Networks in Cartilage Biomechanics
   - **Category**: ongoing subproject of PhD research
-  - **Outputs**: open-source repository (*in preparation*), [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, full journal paper (*in preparation*)
+  - **Outputs**: open-source repository (*under review*), [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, full journal paper (*under review*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
@@ -28,21 +28,21 @@ author_profile: true
   - **Technologies**: Python (TensorFlow, Keras, Sonnet, Matplotlib, Numpy, Sklearn), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
 
-## Inverse FEA of Cartilage Pre-Stressing with Material Optimization
-  - **Category**: ongoing subproject of PhD research
-  - **Outputs**: [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}, conference proceedings paper (*in preparation*)
+## Inverse FEA of Cartilage Pre-stressing with Material Optimization
+  - **Category**: completed subproject of PhD research
+  - **Outputs**: [open-source repository](https://github.com/shayansss/psa){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}, [conference proceedings paper]([https://shayansss.github.io/files/2021_02.pdf](http://dx.doi.org/10.1007/978-3-031-55315-8_12)){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (Numpy, SciPy, Matplotlib), Fortran (Abaqus subroutines)
   - **Fields**: mathematical optimization, numerical analysis, tissue mechanics
 
-## Point-Wise Metric for Machine Learning in Finite Element Surrogate Modeling
+## Point-wise Metric for Machine Learning in Finite Element Surrogate Modeling
   - Category: completed subproject of PhD research
   - Outputs: [open-source repository](https://github.com/shayansss/pmse){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2021_11.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_10_a.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy, Sklearn), Abaqus scripting
   - **Fields**: data science, numerical analysis
 
-## Multi-Physics and Numerical Analysis of Cartilage Biomechanics and Degeneration 
+## Multi-physics and Numerical Analysis of Cartilage Biomechanics and Degeneration 
   - **Category**: completed subproject of MSc research
   - **Outputs**: [open-source repository](https://github.com/shayansss/msc){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} (nearly the same as the MSc Thesis), [short journal paper](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
   - **Collaborators**: Mohammad Haghpanahi, Mohammad Razi
