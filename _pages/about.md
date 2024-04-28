@@ -21,7 +21,7 @@ author_profile: true
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
 
-## Multi-fidelity Machine Learning of Soft Tissue Biomechanics
+## Multi-Fidelity Machine Learning of Soft Tissue Biomechanics
   - **Category**: completed subproject of PhD research
   - **Outputs**: [open-source repository](https://github.com/shayansss/hml){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_09_a.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Duraisamy Shriram, Gerhard A. Holzapfel
@@ -30,7 +30,7 @@ author_profile: true
 
 ## Inverse FEA of Cartilage Pre-stressing with Material Optimization
   - **Category**: completed subproject of PhD research
-  - **Outputs**: [open-source repository](https://github.com/shayansss/psa){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}, [conference proceedings paper](http://dx.doi.org/10.1007/978-3-031-55315-8_12){:target="_blank"}
+  - **Outputs**: [open-source repository](https://github.com/shayansss/psa){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a.pdf){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2024_04_preprint.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (Numpy, SciPy, Matplotlib), Fortran (Abaqus subroutines)
   - **Fields**: mathematical optimization, numerical analysis, tissue mechanics
@@ -42,7 +42,7 @@ author_profile: true
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy, Sklearn), Abaqus scripting
   - **Fields**: data science, numerical analysis
 
-## Multi-physics and Numerical Analysis of Cartilage Biomechanics and Degeneration 
+## Multi-Physics and Numerical Analysis of Cartilage Biomechanics and Degeneration 
   - **Category**: completed subproject of MSc research
   - **Outputs**: [open-source repository](https://github.com/shayansss/msc){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2019_09_preprint.pdf){:target="_blank"} (nearly the same as the MSc Thesis), [short journal paper](https://shayansss.github.io/files/2021_04.pdf){:target="_blank"}
   - **Collaborators**: Mohammad Haghpanahi, Mohammad Razi
