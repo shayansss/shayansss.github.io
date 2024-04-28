@@ -7,7 +7,7 @@ author_profile: true
 <img src="https://shayansss.github.io/images/wordcloud.png"  width="50%"/>
 </div>
 
-## Analysis of Data-efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
+## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
   - **Category**: ongoing subproject of PhD research
   - **Outputs**: invited book chapter (*in press*), PhD dissertation (*in preparation*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
