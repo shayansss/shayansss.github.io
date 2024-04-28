@@ -30,7 +30,7 @@ author_profile: true
 
 ## Inverse FEA of Cartilage Pre-stressing with Material Optimization
   - **Category**: completed subproject of PhD research
-  - **Outputs**: [open-source repository](https://github.com/shayansss/psa){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a.pdf){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2024_04_preprint.pdf){:target="_blank"}
+  - **Outputs**: [open-source repository](https://github.com/shayansss/psa){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2021_02.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_a.pdf){:target="_blank"}, [conference proceedings paper](https://shayansss.github.io/files/2024_04_preprint.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (Numpy, SciPy, Matplotlib), Fortran (Abaqus subroutines)
   - **Fields**: mathematical optimization, numerical analysis, tissue mechanics
