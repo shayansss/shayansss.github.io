@@ -9,7 +9,7 @@ author_profile: true
 
 ## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
   - **Category**: ongoing subproject of PhD research
-  - **Outputs**: [invited book chapter]](https://shayansss.github.io/files/2024_05_preprint.pdf){:target="_blank"}, PhD dissertation (*in preparation*)
+  - **Outputs**: [invited book chapter](https://shayansss.github.io/files/2024_05_preprint.pdf){:target="_blank"}, PhD dissertation (*in preparation*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, mathematical optimization, numerical analysis, tissue mechanics
