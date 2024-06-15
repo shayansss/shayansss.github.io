@@ -9,21 +9,21 @@ author_profile: true
 
 ## Analysis of Data-Efficient Machine Learning in AI-enhanced FEA of Knee Cartilage
   - **Category**: ongoing subproject of PhD research
-  - **Outputs**: [invited book chapter](https://shayansss.github.io/files/2024_05_preprint.pdf){:target="_blank"}, PhD dissertation (*in preparation*)
+  - **Outputs**: PhD dissertation (*under review*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, mathematical optimization, numerical analysis, tissue mechanics
 
 ## Multiscale Graph Neural Networks in Cartilage Biomechanics
-  - **Category**: ongoing subproject of PhD research
-  - **Outputs**: open-source repository (*under review*), [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, full journal paper (*under review*)
+  - **Category**: completed subproject of PhD research
+  - **Outputs**: [open-source repository](https://github.com/shayansss/ehml){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, full journal paper (*in press*)
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
 
 ## Multi-Fidelity Machine Learning of Soft Tissue Biomechanics
   - **Category**: completed subproject of PhD research
-  - **Outputs**: [open-source repository](https://github.com/shayansss/hml){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_09_a.pdf){:target="_blank"}
+  - **Outputs**: [open-source repository](https://github.com/shayansss/hml){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2022_09.pdf){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2021_09_a.pdf){:target="_blank"}, [invited book chapter](https://shayansss.github.io/files/2024_06_preprint.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Duraisamy Shriram, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Sonnet, Matplotlib, Numpy, Sklearn), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
