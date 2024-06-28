@@ -16,7 +16,7 @@ author_profile: true
 
 ## Multiscale Graph Neural Networks in Cartilage Biomechanics
   - **Category**: completed subproject of PhD research
-  - **Outputs**: [open-source repository](https://github.com/shayansss/ehml){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, [full journal paper](https://doi.org/10.1109/ACCESS.2024.3416872){:target="_blank"} (*in press*)
+  - **Outputs**: [open-source repository](https://github.com/shayansss/ehml){:target="_blank"}, [presented abstract](https://shayansss.github.io/files/2023_05_a_b.pdf){:target="_blank"}, [full journal paper](https://shayansss.github.io/files/2024_06_b.pdf){:target="_blank"}
   - **Collaborators**: Bruno Carpentieri, Gerhard A. Holzapfel
   - **Technologies**: Python (TensorFlow, Keras, Matplotlib, Numpy), Fortran (Abaqus subroutines)
   - **Fields**: data science, numerical analysis, tissue mechanics
