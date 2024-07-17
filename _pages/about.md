@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 <div align="center">
-<h1 style="font-size: 2em;">Academic Research Portfolio</h1>
+<h1 style="font-size: 2em;">Main Research Portfolio</h1>
 <img src="https://shayansss.github.io/images/wordcloud.png"  width="50%"/>
 </div>
 
