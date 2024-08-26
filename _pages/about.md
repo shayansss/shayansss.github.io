@@ -9,7 +9,7 @@ Here are the main projects I have implemented or am currently working on, exclud
 
 ## Extending WeStatiX Cloud Software: Developing Digital Twins for Intelligent Structural Health Monitoring
   - **Duration**: Ongoing (less than one year).
-  - **Summary**: A very large-scale project at [CAEmate](https://caemate.com/){:target="_blank"} focused on the application of artificial intelligence and data science in operational modal analysis for monitoring civil engineering structures. The developed commercial code is gradually integrated into [WeStatiX](https://caemate.com/){:target="_blank"}.
+  - **Summary**: A very large-scale project at [CAEmate](https://caemate.com){:target="_blank"} focused on the application of artificial intelligence and data science in operational modal analysis for monitoring civil engineering structures. The developed commercial code is gradually integrated into [WeStatiX](https://westatix.com){:target="_blank"}.
   - **Technologies**: Python (PyTorch, Sklearn, Matplotlib, NumPy, Pandas, SciPy, and Paraview scripts) and Git (on VS Code or Linux Shell).
   - **Fields**: Data science (machine learning and signal processing), applied mathematics (numerical analysis and optimization), and engineering physics (modal analysis).
 
