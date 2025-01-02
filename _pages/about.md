@@ -8,10 +8,10 @@ Here are the main projects I have implemented or am currently working on, exclud
 </div>
 
 ## Extending WeStatiX Cloud Software: Developing Digital Twins for Intelligent Structural Health Monitoring
-  - **Duration**: Ongoing (less than one year).
-  - **Summary**: A very large-scale project at [CAEmate](https://caemate.com){:target="_blank"} focused on the application of artificial intelligence and data science in operational modal analysis for monitoring civil engineering structures. The developed commercial code is gradually integrated into [WeStatiX](https://westatix.com){:target="_blank"}.
+  - **Duration**: Ongoing (Around one year).
+  - **Summary**: A very large-scale project at [CAEmate](https://caemate.com){:target="_blank"} focused on the application of artificial intelligence and data science in digital twins and operational modal analysis for monitoring civil engineering structures. The developed commercial code is gradually integrated into [WeStatiX](https://westatix.com){:target="_blank"}.
   - **Technologies**: Python (PyTorch, Sklearn, Matplotlib, NumPy, Pandas, SciPy, and Paraview scripts) and Git (on VS Code or Linux Shell).
-  - **Fields**: Data science (machine learning and signal processing), applied mathematics (numerical analysis and optimization), and engineering physics (modal analysis).
+  - **Fields**: Data science (machine learning, signal processing, time-series stats), applied mathematics (numerical analysis and optimization), and engineering physics (modal analysis).
 
 ## PhD Dissertation: Hybrid Machine Learning and Numerical Analysis of Cartilage Biomechanics
   - **Duration**: 4 years and 6 months.
